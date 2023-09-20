@@ -51,3 +51,33 @@ h6 {
   --bg-suvs: #006971;
   --bg-luxury: #004140;
 }
+
+/* ----------------------------------------- */
+/* General Style */
+/* ----------------------------------------- */
+
+body {
+  font-family: "Lexend Deca", sans-serif;
+}
+
+.heading-primary {
+  font-family: "Big Shoulders Display", cursive;
+  color: #f2f2f2;
+  font-size: 2.5rem;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  text-transform: uppercase;
+}
+
+.sedans {
+  background-color: var(--bg-sedan);
+}
+
+.suvs {
+  background-color: var(--bg-suvs);
+}
+
+.luxury {
+  background-color: var(--bg-luxury);
+}
