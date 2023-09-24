@@ -20,7 +20,7 @@ Responsive 3-column component using HTML5, CSS3 with flexbox
 
 ### Screenshot
 
-![Screenshot 2023-09-24 at 19-29-30 Frontend Mentor 3-column preview card component](/home/hemanathan/3-column-preview-card-component/images/Screenshot 2023-09-24 at 19-29-30 Frontend Mentor 3-column preview card component.png)
+![Screenshot 2023-09-24 at 19-29-30 Frontend Mentor 3-column preview card component](./images/Screenshot%202023-09-24%20at%2019-29-30%20Frontend%20Mentor%203-column%20preview%20card%20component.png)
 
 Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
 
