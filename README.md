@@ -25,8 +25,8 @@ Responsive 3-column component using HTML5, CSS3 with flexbox
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/hphemanathan/3-column-preview-card-component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com](https://ornate-pastelito-fda86c.netlify.app/)
+- Solution URL: (https://github.com/hphemanathan/3-column-preview-card-component)
+- Live Site URL: (https://ornate-pastelito-fda86c.netlify.app/)
 
 ## My process
 
