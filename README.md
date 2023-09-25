@@ -47,5 +47,5 @@ How to use Min () property to create responsive width of a container
 
 ## Author
 
-- Website - [Github](https://github.com/hphemanathan)
+- Website - https://github.com/hphemanathan
 - Linkedin - https://www.linkedin.com/in/hemanathan-h-p-849876117/
