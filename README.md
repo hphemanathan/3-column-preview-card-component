@@ -25,8 +25,8 @@ Responsive 3-column component using HTML5, CSS3 with flexbox
 
 ### Links
 
-- Solution URL: (https://github.com/hphemanathan/3-column-preview-card-component)
-- Live Site URL: (https://ornate-pastelito-fda86c.netlify.app/)
+- Solution URL: https://github.com/hphemanathan/3-column-preview-card-component
+- Live Site URL: https://ornate-pastelito-fda86c.netlify.app/
 
 ## My process
 
@@ -45,21 +45,13 @@ How to use Min () property to create responsive width of a container
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [Kevin Powell](https://www.youtube.com/watch?v=U9VF-4euyRo&t=315s&ab_channel=KevinPowell) - This is the video I have learned about CSS MIN () property, you can find many useful CSS videos from this channel
+
 
 **Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [Github](https://github.com/hphemanathan)
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
-
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+- Linkedin - (https://www.linkedin.com/in/hemanathan-h-p-849876117/)
